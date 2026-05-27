@@ -29,8 +29,8 @@ body{
 .box{
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
     border-radius: 5px;
-    width: 10vmin;
-    height: 10vmin;
+    width: 18vmin;
+    height: 18vmin;
     border: none;
     font-size: 2rem;
     cursor: pointer;
