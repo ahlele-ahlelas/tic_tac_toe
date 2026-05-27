@@ -14,7 +14,7 @@ body{
 .container{
     display: flex;
     flex-direction: column;
-    height: 70vh;
+    height: 80vh;
     justify-content: center;
     align-items: center;
     gap: 1.5vmin;
@@ -22,7 +22,7 @@ body{
 
 .game{
     display: grid;
-    grid-template-columns: repeat(3, 10vmin);
+    grid-template-columns: repeat(3, 18vmin);
     gap: 1.5vmin;
 }
 
